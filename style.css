@@ -1,0 +1,35 @@
+      .topnav {
+      background-color: #9F9AA4;
+      overflow: hidden;
+      border-radius: 25px;
+      }
+      .topnav a {
+        float: left;
+        color: #CFD8D7;
+        font-weight: bold;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 25px;
+      }
+      .topnav a:hover {
+        background-color: #CFD8D7;
+        color: #9F9AA4;
+      }
+      h2 {
+        font-size: 20px
+      }
+      body {
+        background-color: #CFD8D7;
+        color: #9F9AA4;
+        text-align: center;
+      }
+      .teas img {
+        width: 300px;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 25px;
+      }
+ 
